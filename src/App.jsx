@@ -78,7 +78,7 @@ function App() {
                   greater goal in creating amazing digital experiences for users
                 </p>
                 <button className="px-8 shadow-gray-500 shadow-md py-5 mt-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
-                  <a href="https://drive.google.com/file/d/1xvE8k1HQhO4BVNk1iSYOX8AzVihoEDLj/view?usp=sharing">
+                  <a href="https://drive.google.com/file/d/10n-2rHKOKlpv4JOVxcdmymoAdwtPjWnr/view?usp=sharing">
                     Download resume
                   </a>
                 </button>
